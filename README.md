@@ -1,3 +1,3 @@
 # platziConf
-platziConf es el pryecto realizado en el curso de bootstrap de Platzi.
+platziConf es el proyecto realizado en el curso de bootstrap(https://getbootstrap.com/) de Platzi.
 https://msardissino.github.io/platziConf/
